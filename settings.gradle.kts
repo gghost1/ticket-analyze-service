@@ -5,5 +5,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = "ticket-analyze-service"
+rootProject.name = "dealer-backend"
 include("app")
